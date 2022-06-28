@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+.container{
+    padding: 50px;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    background-color: green;
+    color:white;
+    border-radius: 5px;
+}
+table{
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table tr td{
+    padding: 10px;
+    
+}
+input{
+    width: 300px;
+    padding: 10px 0px; 
+    margin-bottom: 10px;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+    color:white;
+    background-color: green;
+    border:none;
+    border-radius: 5px;
+}
+.delete-btn{
+    background-color: red;
+}
+span{
+    color: red;
+}
+.status{
+    width: 235px;
+}
